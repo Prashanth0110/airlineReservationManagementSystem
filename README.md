@@ -1,8 +1,7 @@
-# AirlineReservationManagementSystem
 # 1. Web Application Overview
 
 # 1.1 Web App Name
-Airline Reservation and Flight Management System
+Airline Reservation Management System using AWS Elastic Beanstalk.
 
 # 1.2 Web App Description
 
